@@ -1,3 +1,9 @@
+### Open Source Contributions
+
+**spring-projects/spring-security**
+
+- Configure spring-security-test to fail on Javadoc warnings to prevent regressions [#18467](https://github.com/spring-projects/spring-security/pull/18592)
+
 ### Tech Stacks
 ---
 
@@ -15,10 +21,8 @@
 
 - SQL 개발자 (SQLD)
 
-<!--
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hedge3x)](https://solved.ac/profile/hedge3x)
--->
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hedge3x)](https://solved.ac/profile/hedge3x)
 
 <!-- 
 ![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyunk58&show_icons=true&theme=tokyonight)
