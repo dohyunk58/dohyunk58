@@ -1,5 +1,4 @@
 ## 김도현 Dohyun Kim (tobby.kim)
----
 
 안녕하세요! 개발자 김도현입니다. 일상의 문제를 해결하는 기술을 만들기 위한 개발자를 목표로 하고 있습니다.
 <br>
@@ -34,7 +33,7 @@ I also value communicating with others to learn and embrace new perspectives.
 
 ### Certificate
 
-- SQL 개발자 (SQLD)
+- [SQL 개발자 (SQLD)](https://www.dataq.or.kr/www/sub/a_04.do)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hedge3x)](https://solved.ac/profile/hedge3x)
